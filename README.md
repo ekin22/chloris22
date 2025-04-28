@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chloris22
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning git and javascirpt
+- 🌱 I’m currently learning git and sql and cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ekinnerturk222@gmail.com
 - 😄 Pronouns: she/her
